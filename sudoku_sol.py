@@ -29,6 +29,11 @@ def empty(brd):
 				return (row,col)
 	return
 
+def valid():
+
+def solve():
+	emp = empty(brd)
+
 
 
 
